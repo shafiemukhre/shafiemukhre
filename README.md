@@ -10,7 +10,7 @@ Active Projects:
 
 Past Projects:
 
-* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): Dashboard and notebooks for statistical analysis
+* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): Dashboard for statistical analysis
 * 🏞️ [image segmentation app](google.com): web app to train image data
 
 
