@@ -1,17 +1,17 @@
 ### oh hey there 👋 welcome to my workshop 🛠️
 
-I am a fullstack software engineer currently based in 🌁 San Francisco, California. My personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
+i am a fullstack software engineer currently based in 🌁 San Francisco, California. my personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
 
-Current Projects:
+current Projects:
 * ⚡️ Flashcode:
 * 📊 Dashbook:
-* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): Collections of awesome algorithm implemented in python for learning purposes
+* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collections of awesome algorithm implemented in python for learning purposes
 
-> Some of these projects are rough prototypes or not fully built out. Some of it are academic projects, toy projects, hackathon projects, MVP and POC. I enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
+> some of these projects are rough prototypes or not fully built out. some of it are academic projects, toy projects, hackathon projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
 
-Past Projects:
+past projects:
 
-* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): Dashboard for statistical analysis
+* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): dashboard for statistical analysis
 * 🏞️ [image segmentation app](google.com): web app to train image data
 
 
