@@ -5,7 +5,7 @@ i am a fullstack software engineer currently based in 🌁 San Francisco, Califo
 current Projects:
 * ⚡️ Flashcode:
 * 📊 Dashbook:
-* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collections of awesome algorithm implemented in python for learning purposes
+* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collections of awesome algorithm implemented in python for learning purposes (hiatus)
 
 > some of these projects are rough prototypes or not fully built out. some of it are academic projects, toy projects, hackathon projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
 
