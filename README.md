@@ -12,7 +12,7 @@ current Projects:
 past projects:
 
 * 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): dashboard for statistical analysis
-* 🏞️ [image segmentation app](google.com): web app to train image data
+* 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app create image segmentation datasets built with react (js), react-konva, indexedDB, & firebase
 
 
 
