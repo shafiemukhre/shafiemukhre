@@ -4,8 +4,8 @@ i am a fullstack software engineer currently based in 🌁 San Francisco, Califo
 
 active projects:
 
-* ⚡️ Flashcode:
-* 📊 Dashbook:
+* ⚡️ flashcode: flashcard for leetcode built with next.js, server components, tailwindcss, nextAuth ... (wip)
+* 📊 dashbook: dashboard + notebook for data analysis built with vite react, react-router, redux toolkit, tailwindcss, auth0 ... (wip)
 * ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collection of awesome algorithms implemented in python for learning purposes (hiatus)
 
 > some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
@@ -13,7 +13,7 @@ active projects:
 past projects:
 
 * 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): fullstack dashboard app for statistical analysis built with react, react hooks, postgreSQL, flask, & jest
-* 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app create image segmentation datasets built with react, react-konva, indexedDB
+* 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app to prepare image segmentation datasets built with react, react-konva, indexedDB
 * 🎞️ [movie review app](https://github.com/shafiemukhre/movie-review-app): fullstack MERN app built with mongoDB, express.js, react, node, kubernetes, docker & skaffold
 * 📢 [meeting summary app](https://github.com/shafiemukhre/meeting-summary-react-app): ai powered web-app to summarize conversations from meeting built with react, and symbl.ai api
 * 🏥 [health form spa](https://github.com/shafiemukhre/HealthFormSPA-with-React-Node.js-FirebaseNoSQL): minimal fullstack app for health info form built with react, react hooks, node, firebase, uuid, and web's media devides api
