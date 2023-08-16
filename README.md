@@ -7,7 +7,7 @@ current Projects:
 * 📊 Dashbook:
 * ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collection of awesome algorithms implemented in python for learning purposes (hiatus)
 
-> some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
+> some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
 
 past projects:
 
