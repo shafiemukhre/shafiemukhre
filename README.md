@@ -2,6 +2,9 @@
 
 I am a fullstack software engineer currently based in 🌁 San Francisco, California. My personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
 
+> Some of these projects are rough prototypes or not fully built out. Some of it are academic projects, toy projects, mvp, poc and so on. I enjoy building things, so they don't always have to be complete for me to resolve my curiosity in an area. 
+
+
 Active Projects:
 * 
 
