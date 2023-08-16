@@ -20,7 +20,7 @@ past projects:
 * 🕸️ [web scrapping api](https://github.com/shafiemukhre/webscraping-api-with-node-express-jquery): restful API endpoints built using node.js, express.js, and jQuery (for web scrapping)
 * ♟️ [chess ai bot](https://github.com/shafiemukhre/chessbot-python): wrote chess ai bot on jupyter notebook (python) using minimax with alpha-beta pruning algorithm
 * 🛣️ [lane keeping algorithm](https://github.com/shafiemukhre/lane-keeping): wrote a python program for lane keeping to detect lane lines from camera/video
-* 🧩 [preact in hugo](https://github.com/shafiemukhre/preact-hugo-esbuild): a POC on how to build reusable lightweight preact components in static website like hugo, bundled using esbuild
+* 🧩 [preact in hugo](https://github.com/shafiemukhre/preact-hugo-esbuild): a POC of reusable lightweight preact components in static website like hugo, bundled using esbuild
 * 🍎 several ios mobile apps: [eatstagram](https://github.com/eatstagram/Eatstagram) - insta for foods, [fconnect](https://github.com/shafiemukhre/fconnect-ios-app) - info app for foster youth, [flixim](https://github.com/shafiemukhre/flixim-ios-app) - app to browse movies, [tippie](https://github.com/shafiemukhre/tippie-ios-app) - tips calculator
 * 🗞️ several landing pages: [DSC SJSU club](https://github.com/dscsjsu/sjsu-gdsc-website), [eatstagram website](https://github.com/eatstagram/eatstagram-website), [fconnect website](https://github.com/shafiemukhre/fconnect-landingpage)
 
