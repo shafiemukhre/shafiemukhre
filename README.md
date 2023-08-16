@@ -8,7 +8,10 @@ Active Projects:
 * 
 
 Past Projects:
-* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived):
+📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): Dashboard and notebooks for statistical analysis
+* React (javascript), React Hooks, Flask (python)
+📷 [image segmentation app]: web app to train image data
+* React {javascript), React Konva, etc
 
 | :---        |    :----:   |
 | Dashbook v0     | React, React Hooks      |
