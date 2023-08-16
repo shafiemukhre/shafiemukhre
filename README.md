@@ -6,7 +6,7 @@ active projects:
 
 * ⚡️ flashcode [wip]: flashcard for leetcode built with next.js, postgresql - #buildinpublic on twitter [@shafiemukhre](https://twitter.com/shafiemukhre)
 * 📊 dashbook [wip]: dashboard + notebook for data analysis built with vite react, go, spring (java)
-* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collection of awesome algorithms implemented in python for learning purposes (hiatus)
+* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms) [pause]: collection of awesome algorithms implemented in python for learning purposes
 
 > some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area
 
