@@ -1,4 +1,4 @@
-### oh hey there 👋 welcome to my workshop
+### oh hey there 👋 welcome to my workshop 🛠️
 
 I am a fullstack software engineer currently based in 🌁 San Francisco, California.
 
@@ -8,7 +8,7 @@ Active Projects:
 * 
 
 Past Projects:
-* [dashbook-old](https://github.com/shafiemukhre/dashbook-archived)
+* [dashbook v0](/dashbook-archived)
 
 <!--
 **shafiemukhre/shafiemukhre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
