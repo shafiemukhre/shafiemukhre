@@ -10,7 +10,7 @@ active projects:
 
 > some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area
 
-past deprecated projects:
+past projects:
 
 * 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): fullstack dashboard app for statistical analysis built with react, react hooks, postgreSQL, flask, & jest
 * 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app to prepare image segmentation datasets built with react, react-konva, indexedDB
