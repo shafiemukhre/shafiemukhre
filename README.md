@@ -10,10 +10,9 @@ Active Projects:
 Past Projects:
 * 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived):
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| :---        |    :----:   |
+| Dashbook v0     | React, React Hooks      |
+| Paragraph   | Text        |
 
 <!--
 **shafiemukhre/shafiemukhre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
