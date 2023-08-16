@@ -22,7 +22,7 @@ past projects:
 * 🧩 [preact in hugo](https://github.com/shafiemukhre/preact-hugo-esbuild): a POC on how to build reusable lightweight preact components in static website like hugo, bundled using esbuild
 * 🥈 
 * 🥈
-* several ios apps: [eatstagram](https://github.com/eatstagram/Eatstagram) - insta for foods, [fconnect](https://github.com/shafiemukhre/fconnect-ios-app) - info app for foster youth, [flixim](https://github.com/shafiemukhre/flixim-ios-app) - app to browse movies, [tippie](https://github.com/shafiemukhre/tippie-ios-app) - tips calculator
+* 🍎 several ios apps: [eatstagram](https://github.com/eatstagram/Eatstagram) - insta for foods, [fconnect](https://github.com/shafiemukhre/fconnect-ios-app) - info app for foster youth, [flixim](https://github.com/shafiemukhre/flixim-ios-app) - app to browse movies, [tippie](https://github.com/shafiemukhre/tippie-ios-app) - tips calculator
 * several landing pages: [DSC SJSU](https://github.com/dscsjsu/sjsu-gdsc-website), 
 
 
