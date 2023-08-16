@@ -16,7 +16,7 @@ past projects:
 * 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app to prepare image segmentation datasets built with react, react-konva, indexedDB
 * 🎞️ [movie review app](https://github.com/shafiemukhre/movie-review-app): fullstack MERN app built with mongoDB, express.js, react, node, kubernetes, docker & skaffold
 * 📢 [meeting summary app](https://github.com/shafiemukhre/meeting-summary-react-app): ai powered web-app to summarize conversations from meeting built with react, and symbl.ai api
-* 🏥 [health form spa](https://github.com/shafiemukhre/HealthFormSPA-with-React-Node.js-FirebaseNoSQL): minimal fullstack app for health info form built with react, react hooks, node, firebase, uuid, and web's media devides api
+* 🏥 [health form spa](https://github.com/shafiemukhre/HealthFormSPA-with-React-Node.js-FirebaseNoSQL): minimal fullstack app for health form built with react, node, firebase, and web's media devides api
 * 🕸️ [web scrapping api](https://github.com/shafiemukhre/webscraping-api-with-node-express-jquery): restful API endpoints built using node.js, express.js, and jQuery (for web scrapping)
 * ♟️ [chess ai bot](https://github.com/shafiemukhre/chessbot-python): wrote chess ai bot on jupyter notebook (python) using minimax with alpha-beta pruning algorithm
 * 🛣️ [lane keeping algorithm](https://github.com/shafiemukhre/lane-keeping): wrote a python program for lane keeping to detect lane lines from camera/video
