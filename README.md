@@ -7,12 +7,14 @@ current Projects:
 * 📊 Dashbook:
 * ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collection of awesome algorithms implemented in python for learning purposes (hiatus)
 
-> some of these projects are rough prototypes or not fully built out. some of it are academic projects, toy projects, hackathon projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
+> some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
 
 past projects:
 
-* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): dashboard for statistical analysis
-* 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app create image segmentation datasets built with react (js), react-konva, indexedDB, & firebase
+* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): fullstack dashboard app for statistical analysis built with react (js), react hooks, 
+* 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app create image segmentation datasets built with react (js), react-konva, indexedDB
+* 🎞️ [movie review app](https://github.com/shafiemukhre/movie-review-app): fullstack MERN app built with mongoDB, express.js, react (js), node, kubernetes, docker & skaffold
+* 
 
 
 
