@@ -10,10 +10,7 @@ Active Projects:
 Past Projects:
 
 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): Dashboard and notebooks for statistical analysis
-* React (javascript), React Hooks, Flask (python)
-
-📷 [image segmentation app]: web app to train image data
-* React {javascript), React Konva, etc
+🏞️ [image segmentation app]: web app to train image data
 <!--
 **shafiemukhre/shafiemukhre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
