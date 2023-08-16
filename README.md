@@ -6,7 +6,7 @@ Active Projects:
 * ⚡️ Flashcode:
 * 📊 Dashbook: 
 
-> Some of these projects are rough prototypes or not fully built out. Some of it are academic projects, toy projects, mvp, poc and so on. I enjoy building things, so they don't always have to be complete for me to resolve my curiosity in an area. 
+> Some of these projects are rough prototypes or not fully built out. Some of it are academic projects, toy projects, hackathon projects, MVP and POC. I enjoy building things, so they don't always have to be complete for me to resolve my curiosity in an area. 
 
 Past Projects:
 
