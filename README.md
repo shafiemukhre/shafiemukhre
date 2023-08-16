@@ -1,4 +1,8 @@
-### Hello there 👋
+### oh hey there 👋 
+
+I am a fullstack software engineer currently based in 🌁 San Francisco, California.
+
+
 
 <!--
 **shafiemukhre/shafiemukhre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
