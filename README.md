@@ -2,7 +2,7 @@
 
 i am a fullstack software engineer currently based in 🌁 San Francisco, California. my personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
 
-current Projects:
+active projects:
 * ⚡️ Flashcode:
 * 📊 Dashbook:
 * ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collection of awesome algorithms implemented in python for learning purposes (hiatus)
