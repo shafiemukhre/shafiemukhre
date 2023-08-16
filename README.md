@@ -4,7 +4,7 @@ i am a fullstack software engineer currently based in 🌁 San Francisco, Califo
 
 active projects:
 
-* ⚡️ flashcode: flashcard for leetcode built with next.js (wip)
+* ⚡️ flashcode: flashcard for leetcode built with next.js (wip) - #buildinpublic on twitter [@shafiemukhre](https://twitter.com/shafiemukhre)
 * 📊 dashbook: dashboard + notebook for data analysis built with vite react (wip)
 * ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collection of awesome algorithms implemented in python for learning purposes (hiatus)
 
