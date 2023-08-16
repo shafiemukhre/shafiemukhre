@@ -1,4 +1,4 @@
-### oh hey there 👋 
+### oh hey there 👋 welcome to my garden
 
 I am a fullstack software engineer currently based in 🌁 San Francisco, California.
 
