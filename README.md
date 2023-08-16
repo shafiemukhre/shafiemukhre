@@ -1,6 +1,6 @@
 ### oh hey there 👋 welcome to my workshop 🛠️
 
-I am a fullstack software engineer currently based in 🌁 San Francisco, California. My personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com).
+I am a fullstack software engineer currently based in 🌁 San Francisco, California. My personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
 
 Active Projects:
 * 
