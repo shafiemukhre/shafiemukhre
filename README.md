@@ -4,8 +4,8 @@ i am a fullstack software engineer currently based in 🌁 San Francisco, Califo
 
 active projects:
 
-* ⚡️ flashcode: flashcard for leetcode built with next.js, server components, tailwindcss, nextAuth ... (wip)
-* 📊 dashbook: dashboard + notebook for data analysis built with vite react, react-router, redux toolkit, tailwindcss, auth0 ... (wip)
+* ⚡️ flashcode: flashcard for leetcode built with next.js (wip)
+* 📊 dashbook: dashboard + notebook for data analysis built with vite react (wip)
 * ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms): collection of awesome algorithms implemented in python for learning purposes (hiatus)
 
 > some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. 
