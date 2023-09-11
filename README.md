@@ -3,10 +3,9 @@
 i am a fullstack software engineer currently based in 🌁 San Francisco, California. my personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
 
 active projects:
-
+<!--
 * ⚡️ flashcode [wip]: flashcard for leetcode built with next.js, postgresql
-* 📊 dashbook [wip]: dashboard + notebook for data analysis built with react vite, go, spring (java)
-* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms) [pause]: collection of awesome algorithms implemented in python for learning purposes
+* 📊 dashbook [wip]: dashboard + notebook for data analysis built with react vite, go, spring (java)  -->
 
 > some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area
 
@@ -21,6 +20,7 @@ past projects:
 * ♟️ [chess ai bot](https://github.com/shafiemukhre/chessbot-python): wrote chess ai bot on jupyter notebook (python) using minimax with alpha-beta pruning algorithm
 * 🛣️ [lane keeping algorithm](https://github.com/shafiemukhre/lane-keeping): wrote a python program for lane keeping to detect lane lines from camera/video
 * 🧩 [preact in hugo](https://github.com/shafiemukhre/preact-hugo-esbuild): a POC of reusable lightweight preact components in static website like hugo, bundled using esbuild
+* ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms) [pause]: collection of awesome algorithms implemented in python for learning purposes
 * 🍎 several ios mobile apps: [eatstagram](https://github.com/eatstagram/Eatstagram) - insta for foods, [fconnect](https://github.com/shafiemukhre/fconnect-ios-app) - info app for foster youth, [flixim](https://github.com/shafiemukhre/flixim-ios-app) - app to browse movies, [tippie](https://github.com/shafiemukhre/tippie-ios-app) - tips calculator
 * 🗞️ several landing pages: [DSC SJSU club](https://github.com/dscsjsu/sjsu-gdsc-website), [eatstagram website](https://github.com/eatstagram/eatstagram-website), [fconnect website](https://github.com/shafiemukhre/fconnect-landingpage)
 
