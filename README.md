@@ -21,7 +21,7 @@ projects:
 * 🧩 [preact in hugo](https://github.com/shafiemukhre/preact-hugo-esbuild): a POC of reusable lightweight preact components in static website like hugo, bundled using esbuild
 * ⚙️ [beautiful-algorithms](https://github.com/shafiemukhre/beautiful-algorithms) [pause]: collection of awesome algorithms implemented in python for learning purposes
 * 🍎 several ios mobile apps: [eatstagram](https://github.com/eatstagram/Eatstagram) - insta for foods, [fconnect](https://github.com/shafiemukhre/fconnect-ios-app) - info app for foster youth, [flixim](https://github.com/shafiemukhre/flixim-ios-app) - app to browse movies, [tippie](https://github.com/shafiemukhre/tippie-ios-app) - tips calculator
-* 🗞️ several landing pages: [DSC SJSU club](https://github.com/dscsjsu/sjsu-gdsc-website), [eatstagram website](https://github.com/eatstagram/eatstagram-website), [fconnect website](https://github.com/shafiemukhre/fconnect-landingpage)
+* 🗞️ several Hugo landing pages: [DSC SJSU club](https://github.com/dscsjsu/sjsu-gdsc-website), [eatstagram website](https://github.com/eatstagram/eatstagram-website), [fconnect website](https://github.com/shafiemukhre/fconnect-landingpage)
 
 
 
