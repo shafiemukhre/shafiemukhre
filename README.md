@@ -10,6 +10,8 @@ i am a fullstack software engineer currently based in 🌁 San Francisco, Califo
 
 projects:
 
+* 🌐 [pathfinder grid visualizer](https://github.com/shafiemukhre/pathfinder-grid-visualizer): pathfinding graph algorithms visualizer on a grid
+* 🗺️ [pathfinder map visualizer (wip)](https://github.com/shafiemukhre/pathfinder-map-visualizer): pathfinding graph algorithms visualizer on a map
 * 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): fullstack dashboard app for statistical analysis built with react, react hooks, postgreSQL, flask, & jest
 * 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app to prepare image segmentation datasets built with react, react-konva, indexedDB
 * 🎞️ [movie review app](https://github.com/shafiemukhre/movie-review-app): fullstack MERN app built with mongoDB, express.js, react, node, kubernetes, docker & skaffold
