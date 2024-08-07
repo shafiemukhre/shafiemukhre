@@ -6,7 +6,7 @@ i am a fullstack software engineer currently based in 🌁 San Francisco, Califo
 * ⚡️ flashcode [wip]: flashcard for leetcode built with next.js, postgresql
 * 📊 dashbook [wip]: dashboard + notebook for data analysis built with react vite, go, spring (java)  -->
 
-> some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. i worked on all of these projects either individually or i lead the team and is the major contributer. for convenience, right click and open the link in a new tab
+> some of these projects are rough prototypes or not fully built out. some of it are academic/toy/hackathon/clone/tutorial projects, MVP and POC. i enjoy building things, so they don't always have to be complete for me to learn/practice new technologies or resolve my curiosity in an area. i worked on all of these projects either individually or i led the team and is the major contributer. for convenience, right click and open the link in a new tab
 
 projects:
 
