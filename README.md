@@ -13,7 +13,7 @@ projects:
 * 🌐 pathfinder grid visualizer, [repo](https://github.com/shafiemukhre/pathfinder-grid-visualizer), [app](https://pathfinder-grid-visualizer.vercel.app/): pathfinding graph algorithms visualizer on a grid
 * 🗺️ pathfinder map visualizer (wip), [repo](https://github.com/shafiemukhre/pathfinder-map-visualizer), [app](https://pathfinder-map-visualizer.vercel.app/): pathfinding graph algorithms visualizer on a map
 * 🧮 spreadsheet+, [repo](https://github.com/shafiemukhre/spreadsheet-plus), [app](https://spreadsheet-plus.vercel.app/): a spreadsheet that can only do plus operation
-* 📊 [dashbook v0](https://github.com/shafiemukhre/dashbook-archived): fullstack dashboard app for statistical analysis built with react, react hooks, postgreSQL, flask, & jest
+* 📊 [statsboard](https://github.com/shafiemukhre/statsboard): fullstack dashboard app for statistical analysis built with react, react hooks, postgreSQL, flask, & jest
 * 🏞️ [image segmentation app](https://github.com/shafiemukhre/image-segmentation-app): web app to prepare image segmentation datasets built with react, react-konva, indexedDB
 * 🎞️ [movie review app](https://github.com/shafiemukhre/movie-review-app): fullstack MERN app built with mongoDB, express.js, react, node, kubernetes, docker & skaffold
 * 📢 [meeting summary app](https://github.com/shafiemukhre/meeting-summary-react-app): ai powered web-app to summarize conversations from meeting built with react, and symbl.ai api
