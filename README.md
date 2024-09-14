@@ -1,6 +1,6 @@
 ### oh hey there 👋 welcome!
 
-i am a fullstack software engineer currently based in 🌁 San Francisco, California. my personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
+i am a fullstack software engineer currently based in 🌁 San Francisco Bay Area, California. my personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
 
 <!--
 * ⚡️ flashcode [wip]: flashcard for leetcode built with next.js, postgresql
