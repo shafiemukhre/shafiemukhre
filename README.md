@@ -1,4 +1,4 @@
-### oh hey there 👋 welcome! 👨‍🍳🍳🍲🥘
+### oh hey there 👋 welcome!
 
 i am a fullstack software engineer currently based in 🌁 San Francisco Bay Area, California. my personal website and technical blogs is at [shafiemukhre.com](https://shafiemukhre.com)
 
